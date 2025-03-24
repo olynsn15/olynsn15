@@ -18,6 +18,9 @@ Currently a 2nd year Mobile Application & Technology student at BINUS University
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
+## My Stats!
+![olynsn15's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olynsn15&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
+
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/carolyn-santana15/)  
 - [Instagram](https://instagram.com/olyn.sna)  
