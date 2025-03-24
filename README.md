@@ -2,7 +2,7 @@
 # Hi there! ૮ ˶ᵔ ᵕ ᵔ˶ ა 𐙚 ‧₊˚ ⋅
 I'm Olyn!
 
-Currently a 2nd year Mobile Application & Technology student at BINUS University.  
+Currently a 2nd year Mobile Application & Technology student at BINUS University. 
 
 ## Tech Stack! (ᵕ—ᴗ—)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
