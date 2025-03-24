@@ -1,5 +1,5 @@
-# Welcome to my GitHub profile!
 # Hi there! ૮ ˶ᵔ ᵕ ᵔ˶ ა 𐙚 ‧₊˚ ⋅
+# Welcome to my GitHub profile!
 I'm Olyn!
 
 Currently a 2nd year Mobile Application & Technology student at BINUS University. 
