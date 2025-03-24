@@ -1,4 +1,4 @@
-# OlinConfig
+# Welcome to my GitHub profile!
 # Hi there! 👋
 I'm Olyn!
 
