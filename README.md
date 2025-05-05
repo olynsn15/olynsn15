@@ -18,6 +18,7 @@ Currently a 2nd year Mobile Application & Technology student at BINUS University
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)
+![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ## My Stats
