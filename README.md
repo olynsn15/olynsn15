@@ -3,7 +3,7 @@ I'm Olyn!
 
 Currently a 2nd year Mobile Application & Technology student at BINUS University. 
 
-## Tech Stack! (ᵕ—ᴗ—)
+## Tech Stack (ᵕ—ᴗ—)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
@@ -17,7 +17,7 @@ Currently a 2nd year Mobile Application & Technology student at BINUS University
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
-## My Stats!
+## My Stats
 ![olynsn15's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olynsn15&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Let's Connect!
