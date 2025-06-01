@@ -22,7 +22,8 @@ Currently a 2nd year Mobile Application & Technology student at BINUS University
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ## My Stats
-![olynsn15's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olynsn15&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
+![olynsn15's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olynsn15&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
+![olynsn15's Streak](https://github-readme-streak-stats.herokuapp.com/?user=olynsn15&theme=synthwave&hide_border=true)
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/carolyn-santana15/)  
