@@ -23,6 +23,7 @@ Currently a 2nd year Mobile Application & Technology student at BINUS University
 
 ## My Stats
 ![olynsn15's Stats](https://github-readme-stats.vercel.app/api?username=olynsn15&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=olynsn15&theme=dracula&exclude_days=Sun%2CSat)
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/carolyn-santana15/)  
