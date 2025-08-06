@@ -21,6 +21,7 @@ I'm Olyn! Currently a 2nd year Mobile Application & Technology student at BINUS 
 
 ## My Stats
 ![olynsn15's Stats](https://github-readme-stats.vercel.app/api?username=olynsn15&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+![olynsn15's Streak](https://github-readme-streak-stats.herokuapp.com/?user=olynsn15&theme=dracula&hide_border=true)
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/carolyn-santana15/)  
