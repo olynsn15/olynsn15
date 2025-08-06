@@ -1,9 +1,7 @@
-# Hi there! ૮ ˶ᵔ ᵕ ᵔ˶ ა 𐙚 ‧₊˚ ⋅ Welcome to my GitHub!
-I'm Olyn!
+# Hi there! ૮ ˶ᵔ ᵕ ᵔ˶ ა 𐙚 ‧₊˚ ⋅
+I'm Olyn! Currently a 2nd year Mobile Application & Technology student at BINUS University. Welcome to my GitHub!
 
-Currently a 2nd year Mobile Application & Technology student at BINUS University. 
-
-## Tech Stack (ᵕ—ᴗ—)
+## Tech Stack
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
