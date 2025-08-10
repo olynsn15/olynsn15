@@ -1,4 +1,4 @@
-# Hi there! ૮ ˶ᵔ ᵕ ᵔ˶ ა 𐙚 ‧₊˚ ⋅
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70FA3&width=435&lines=Hi+there!+%E0%AB%AE+%CB%B6%E1%B5%94+%E1%B5%95+%E1%B5%94%CB%B6+%E1%83%90+%F0%90%99%9A+%E2%80%A7%E2%82%8A%CB%9A+%E2%8B%85)](https://git.io/typing-svg)
 I'm Olyn! Currently a 2nd year Mobile Application & Technology student at BINUS University. Welcome to my GitHub!
 
 ## Tech Stack
