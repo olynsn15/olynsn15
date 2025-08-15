@@ -1,5 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F70FA3&width=750&height=75&lines=Hi+there!+%E0%AB%AE+%CB%B6%E1%B5%94+%E1%B5%95+%E1%B5%94%CB%B6+%E1%83%90+%F0%90%99%9A+%E2%80%A7%E2%82%8A%CB%9A+%E2%8B%85)](https://git.io/typing-svg)
-I'm Olyn! Currently a 3rd year Mobile Application & Technology student at BINUS University. Welcome to my GitHub!
+I'm Olyn! Currently a 3rd year Mobile Application & Technology student at BINUS University. Welcome to my GitHub! Containing various projects I have worked on for the past few years ranging from websites, applications, to AI models made using numerous languages and frameworks!
 
 ## Tech Stack
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
