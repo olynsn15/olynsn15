@@ -25,6 +25,6 @@ I'm Olyn! Currently a 3rd year Mobile Application & Technology student at BINUS 
 ## Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/carolyn-santana15/)  
 - [Instagram](https://instagram.com/olyn.sna)
-- ### [My Portfolio](https://olynsn15.vercel.app/) 
+- ### [My Portfolio Website](https://olynsn15.vercel.app/) 
 
 Thanks for stopping by! 👀
